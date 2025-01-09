@@ -1,0 +1,6 @@
+Name,Age,Salary,Department,Experience,City
+John,28,50000,Sales,3,New York
+Alice,32,60000,Marketing,5,San Diego
+Bob,45,70000,Engineering,10,Los Angeles
+Clara,,52000,Sales,2,
+Eve,38,,Marketing,,San Diego
